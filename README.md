@@ -1,19 +1,23 @@
-👋 Hi, I’m Hifzur Rahman
-Database Architect | Full-Stack Developer | AI Solutions Engineer
-Passionate about scalable system design, clean architecture, and intelligent automation.
+# Hifzur Rahman
+**Database Architect | Full-Stack Developer | AI Solutions Engineer**
 
-With over a decade of experience, I specialize in designing robust database architectures, building end-to-end full-stack applications, and implementing AI-driven agents to streamline business processes.
+Building scalable, data-driven products through strategic architecture and intelligent automation.
 
-What defines me:
+## **What I Do**
+- Design enterprise database architectures (SQL/NoSQL) that scale with business growth
+- Build full-stack applications with robust backend foundations  
+- Implement AI agents for business process automation
+- Lead technical architecture decisions from concept to production
 
-Deep expertise in relational and NoSQL databases
+## **Tech Stack**
+**Databases**: PostgreSQL, MongoDB, Redis, Snowflake  
+**Backend**: Node.js, Python, Java, Microservices  
+**Frontend**: React, Vue.js, TypeScript  
+**Cloud**: AWS, Azure, Docker, Kubernetes  
+**AI/ML**: OpenAI, LangChain, Custom ML pipelines  
 
-Strong foundation in backend and frontend development
+## **Approach**
+Product-first architecture • Scalable system design • Data-driven solutions • Continuous learning
 
-Practical implementation of AI agents for real-world automation
-
-A constant learner — always exploring new tools, frameworks, and ideas
-
-A problem-solver at heart with a passion for elegant, efficient solutions
-
-I believe in staying hands-on, staying curious, and continuously evolving — no matter how experienced you are, there's always something new to learn.
+---
+*10+ years turning complex business requirements into elegant technical solutions*
